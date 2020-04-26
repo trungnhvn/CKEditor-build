@@ -1,7 +1,7 @@
 CKEditor 5 classic editor build with plugins of Code Block and Alignment for Vuejs
 ========================================
 
-![CKEditor 5 classic editor build screenshot](https://ibb.co/47vp6kx)
+![CKEditor 5 classic editor build screenshot](https://i.ibb.co/6m9F3Q5/ckeditor-screenshot.jpg")
 
 ## Documentation
 
