@@ -30,10 +30,7 @@ app.js
 ```js
 import CKEditor from '@ckeditor/ckeditor5-vue';
 Vue.use( CKEditor );
----
-components:
----js
-<script>
+
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 export default {
 
@@ -58,7 +55,6 @@ export default {
     }
 
 }
-</script>
 }
 ---
 ---html
