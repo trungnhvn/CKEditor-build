@@ -2,7 +2,7 @@ CKEditor 5 classic editor build with plugins of Code Block and Alignment for Vue
 ========================================
 
 ![CKEditor 5 classic editor build screenshot]
-https://serving.photos.photobox.com/031924792fafb68b4e1927c0e40484381379cb025b5e46d19a4249fe3579fa78a9daf389.jpg
+(https://serving.photos.photobox.com/031924792fafb68b4e1927c0e40484381379cb025b5e46d19a4249fe3579fa78a9daf389.jpg)
 
 ## Documentation
 
@@ -21,7 +21,7 @@ First, install the build from npm:
 git clone https://github.com/trungnhvn/CKEditor-build.git
 ```
 And then, copy three (03) file from build folder to your own project:
---html
+---html
 node_modules\@ckeditor\ckeditor5-build-classic\build
 ---
 And use it in your website:
