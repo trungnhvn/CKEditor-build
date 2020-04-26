@@ -15,11 +15,11 @@ See:
 ## Quick start
 
 **First, install the build from npm:
-
-```bash
-git clone https://github.com/trungnhvn/CKEditor-build.git
 ```
-**This text is copy three (03) file from `build` folder to your own project:
+git clone https://github.com/trungnhvn/CKEditor-build.git
+---
+
+Copy three (03) file from: `build` folder to your own project:
 ---html
 `node_modules\@ckeditor\ckeditor5-build-classic\build`
 ---
@@ -29,7 +29,10 @@ And use it in your website:
 ```js
 import CKEditor from '@ckeditor/ckeditor5-vue';
 Vue.use( CKEditor );
+---
+
 **components
+---js
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 export default {
 
