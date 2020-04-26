@@ -14,22 +14,22 @@ See:
 
 ## Quick start
 
-First, install the build from npm:
+**First, install the build from npm:
 
 ```bash
 git clone https://github.com/trungnhvn/CKEditor-build.git
 ```
-And then, copy three (03) file from build folder to your own project:
+**This text is copy three (03) file from `build` folder to your own project:
 ---html
-node_modules\@ckeditor\ckeditor5-build-classic\build
+`node_modules\@ckeditor\ckeditor5-build-classic\build`
 ---
 And use it in your website:
 
-app.js
+**app.js
 ```js
 import CKEditor from '@ckeditor/ckeditor5-vue';
 Vue.use( CKEditor );
-
+**components
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
 export default {
 
